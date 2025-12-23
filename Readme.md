@@ -23,5 +23,3 @@ The simulation provides real-time visualization of:
 * **State vs. Truth**: Comparing estimated position/velocity against actual values.
 * **Innovation**: Monitoring the measurement residual to ensure filter health.
 * **2D Path**: Tracking the trajectory in a Cartesian plane.
-
-![Simulation Results](docs/simulation_results.png)
